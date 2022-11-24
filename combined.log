@@ -767,3 +767,18 @@
 {"level":"warn","message":"[Warn] Mensaje personalizado","service":"user-service"}
 {"level":"error","message":"[Error] Mensaje personalizado","service":"user-service"}
 {"level":"debug","message":"[Debug] Mensaje personalizado","service":"user-service"}
+{"level":"error","message":"[Error] Error durante el programa: Introduce números para calcularlos.","service":"user-service"}
+{"level":"info","message":"[Info] Mensaje personalizado","service":"user-service"}
+{"level":"warn","message":"[Warn] Mensaje personalizado","service":"user-service"}
+{"level":"error","message":"[Error] Mensaje personalizado","service":"user-service"}
+{"level":"debug","message":"[Debug] Mensaje personalizado","service":"user-service"}
+{"level":"error","message":"[Error] Error durante el programa: Introduce números para calcularlos.","service":"user-service"}
+{"level":"info","message":"[Info] Mensaje personalizado","service":"user-service"}
+{"level":"warn","message":"[Warn] Mensaje personalizado","service":"user-service"}
+{"level":"error","message":"[Error] Mensaje personalizado","service":"user-service"}
+{"level":"debug","message":"[Debug] Mensaje personalizado","service":"user-service"}
+{"level":"error","message":"[Error] Error durante el programa: Introduce números para calcularlos.","service":"user-service"}
+{"level":"info","message":"[Info] Mensaje personalizado","service":"user-service"}
+{"level":"warn","message":"[Warn] Mensaje personalizado","service":"user-service"}
+{"level":"error","message":"[Error] Mensaje personalizado","service":"user-service"}
+{"level":"debug","message":"[Debug] Mensaje personalizado","service":"user-service"}
