@@ -1,0 +1,15 @@
+{
+  "name": "ob_m3_t9_e1",
+  "version": "1.0.0",
+  "description": "## Tema 9: gestión de errores. Ejercicio 1.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/js/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "winston": "^3.8.2"
+  }
+}
